@@ -24,8 +24,9 @@ Here are some of the tools and technologies I love working with:
 
 - 📧 [Email](mailto:janavarroozuna@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-andres-navarro-ozuna-995216268/)  
+- 📸 [Instagram](https://www.instagram.com/navarro_pandyy/)  
 
-Feel free to explore my repositories or get in touch with me if you have any questions or want to collaborate! 😃  
+Feel free to explore my repositories or get in touch with me if you have any questions or want to collaborate! :)  
 
 ## 📊 Most Used Languages  
 
