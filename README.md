@@ -4,9 +4,8 @@ Welcome to my GitHub! I'm a passionate Computer Systems Engineer with a love for
 
 ## 🔹 About Me  
 
-- 🎓 **Major**: Computer Systems Engineering at ITESO (currently in 6th semester, graduating in 2027)  
+- 🎓 **Major**: Computer Systems Engineering at ITESO (graduating in may 2027)  
 - 📍 **Location**: Zapopan, Jalisco, Mexico  
-- 💼 **Current Job/Position**: Intern at ICALIA LABS  
 - 📚 **Currently Learning**: Ruby on Rails, Java, and unit testing with RSpec  
 - 🌍 **Future Goals**: Work as a software engineer  
 - ⛰️ **Fun Fact**: I love hiking! The highest I've been is 4,900m at Pico de Orizaba (Summit attempt pending).  
