@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate Computer Systems Engineer with a love for
 
 -  **Major**: Computer Systems Engineering at ITESO (graduating in may 2027)  
 -  **Location**: Zapopan, Jalisco, Mexico
--  **Work**: Enterprise Operations HQ Tech Intern HPinc
+-  **Work**: Data Engineer Intern HPinc
 
 ##  Skills & Technologies  
 
